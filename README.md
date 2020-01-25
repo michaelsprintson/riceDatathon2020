@@ -1,4 +1,4 @@
-# riceDatathon2020 - Course Evaluation
+# Rice Datathon 2020 - Course Evaluation Modeling and Analytics
 
 Inside the mind of a student: in-depth course evaluation modeling and analytics
 
@@ -12,11 +12,11 @@ Inside the mind of a student: in-depth course evaluation modeling and analytics
 
 ## Data Sourced
 
-## Test Data
+### Test Data
 
 * course / instructor evalution historical dataset from Rice University Office of Registrar
 
-## Training Data
+### Training Data
 
 * Coursera course reviews dataset from Kaggle
 
