@@ -1,23 +1,22 @@
-
 # riceDatathon2020 - Course Evaluation
 
-One Paragraph of project description goes here
+Inside the mind of a student: in-depth course evaluation modeling and analytics
 
 ## Participants
 
-Seung Hun Jang (sj43)
-Colin King (cbk1)
-Andrew Feng (asf6)
-Timothy Goh (tmg5)
-Michael Sprintson (ms148)
+* Seung Hun Jang (sj43)
+* Colin King (cbk1)
+* Andrew Feng (asf6)
+* Timothy Goh (tmg5)
+* Michael Sprintson (ms148)
 
 ## Data Sourced
 
-## test data
+## Test Data
 
 * course / instructor evalution historical dataset _ from Rice University Office of Registrar
 
-## training data
+## Training Data
 
 * Coursera course reviews dataset from Kaggle
 
@@ -60,9 +59,3 @@ listed in "requirements.txt"
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
