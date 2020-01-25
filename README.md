@@ -1,4 +1,4 @@
-# Rice Datathon 2020 - Course Evaluation Modeling and Analytics
+# Rice Datathon 2020 - Course Evaluation Analytics
 
 Inside the mind of a student: in-depth course evaluation modeling and analytics
 
