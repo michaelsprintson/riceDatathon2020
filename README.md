@@ -14,7 +14,7 @@ Inside the mind of a student: in-depth course evaluation modeling and analytics
 
 ## Test Data
 
-* course / instructor evalution historical dataset _ from Rice University Office of Registrar
+* course / instructor evalution historical dataset from Rice University Office of Registrar
 
 ## Training Data
 
@@ -53,7 +53,7 @@ Inside the mind of a student: in-depth course evaluation modeling and analytics
 
 ## Prerequisites:
 
-listed in "requirements.txt"
+Listed in "requirements.txt"
 
 
 ## License
