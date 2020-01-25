@@ -1,0 +1,12 @@
+# language
+python3
+
+# parsing / analyzing data
+pandas
+numpy
+matplotlib
+nltk
+tqdm
+sklearn
+enchant
+textblob
